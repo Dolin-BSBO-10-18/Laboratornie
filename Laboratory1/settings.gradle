@@ -1,4 +1,0 @@
-rootProject.name = "Laboratory1"
-include ':googlemap'
-include ':yandexmap'
-include ':yandexdriver'
